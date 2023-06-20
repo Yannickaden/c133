@@ -1,0 +1,57 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+#heading
+{
+    margin-top: 15px;
+    width: 600px;
+    height: fit-content;
+    font-size: 40px;
+    color: black;
+}
+#bottle
+{
+    margin-top: 45px;
+    margin-bottom: 45px;
+    color: white;
+    width: 300px;
+    height: 45px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+#chair
+{
+    margin-top: 45px;
+    margin-bottom: 45px;
+    color: white;
+    width: 300px;
+    height: 45px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+#book_n_pencil
+{
+    color: white;
+    width: 300px;
+    height: 45px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+#car_n_controller
+{
+    color: white;
+    width: 300px;
+    height: 45px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+#controller_n_TV-Remote
+{
+    color: white;
+    width: 300px;
+    height: 45px;
+    font-size: 20px;
+    border-radius: 20px;
+}

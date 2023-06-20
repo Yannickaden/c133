@@ -1,0 +1,27 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+#heading
+{
+    margin-top: 15px;
+    width: 600px;
+    height: fit-content;
+    font-size: 40px;
+    color: black;
+}
+#back
+{
+    float: right;
+    margin-top: -200px;
+    margin-right: 20px;
+}
+canvas
+{
+    background-color: aqua;
+    border-radius: 20px;
+    border-color: crimson;
+    box-shadow: 10px 10px 15px rgb(57, 57, 57);
+    margin-top: 100px;
+}
